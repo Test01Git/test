@@ -1,2 +1,2 @@
 def second():
-  pass
+  print(11111)
